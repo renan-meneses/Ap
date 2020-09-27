@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.2/resharper-host/local/Transient/Rider/v202/SolutionCaches/_.19.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p=".gitignore" t="Include" />
+      <e p="Controllers" t="Include">
+        <e p="AlunoController.cs" t="Include" />
+        <e p="HomeController.cs" t="Include" />
+      </e>
+      <e p="Models" t="Include">
+        <e p="Aluno.cs" t="Include" />
+      </e>
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+      <e p="README.md" t="Include" />
+      <e p="Startup.cs" t="Include" />
+      <e p="Views" t="Include">
+        <e p="Aluno" t="Include">
+          <e p="Index.cshtml" t="Include" />
+        </e>
+        <e p="Home" t="Include">
+          <e p="Index.cshtml" t="Include" />
+        </e>
+        <e p="Shared" t="Include">
+          <e p="_Layout.cshtml" t="Include" />
+        </e>
+        <e p="_ViewImports.cshtml" t="Include" />
+        <e p="_ViewStart.cshtml" t="Include" />
+      </e>
+      <e p="app-mvc.csproj" t="IncludeRecursive" />
+      <e p="appsettings.Development.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="app-mvc.AssemblyInfo.cs" t="Include" />
+            <e p="app-mvc.RazorAssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="screenshots" t="Include">
+        <e p="aspnetcore-mvc-structure-default.png" t="Include" />
+        <e p="css-x-cores-css-existente-como-dar-manutencao-1538334855.gif" t="Include" />
+        <e p="model-view-controller-architecture.gif" t="Include" />
+        <e p="mvc-web-project-views.png" t="Include" />
+        <e p="my-extensions-to-vscode.png" t="Include" />
+        <e p="page-layout.png" t="Include" />
+        <e p="phjb_2020.png" t="Include" />
+        <e p="ss_1.png" t="Include" />
+        <e p="ss_10.png" t="Include" />
+        <e p="ss_11.png" t="Include" />
+        <e p="ss_2.png" t="Include" />
+        <e p="ss_3.png" t="Include" />
+        <e p="ss_4.png" t="Include" />
+        <e p="ss_5.png" t="Include" />
+        <e p="ss_6.png" t="Include" />
+        <e p="ss_7.png" t="Include" />
+        <e p="ss_8.png" t="Include" />
+        <e p="ss_9.png" t="Include" />
+      </e>
+      <e p="wwwroot" t="Include">
+        <e p="lib" t="Include">
+          <e p="bootstrap" t="Include">
+            <e p="dist" t="Include">
+              <e p="css" t="Include">
+                <e p="bootstrap.min.css" t="Include" />
+              </e>
+              <e p="js" t="Include">
+                <e p="bootstrap.bundle.min.js" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="jquery" t="Include">
+            <e p="dist" t="Include">
+              <e p="jquery.min.js" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+    </e>
+  </component>
+</project>
